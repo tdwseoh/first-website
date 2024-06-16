@@ -1,6 +1,6 @@
 ---
 title: "About"
 ---
-
-Thomas Seoh
-
+## About Me
+My name is **Thomas Seoh**, and I am attending *W.H. Morden P.S.*
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
