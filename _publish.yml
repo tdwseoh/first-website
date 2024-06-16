@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 6f8e7135-acc3-473d-b6d5-91c95ec5a663
+      url: 'https://tseoh.quarto.pub/a-new-website'
